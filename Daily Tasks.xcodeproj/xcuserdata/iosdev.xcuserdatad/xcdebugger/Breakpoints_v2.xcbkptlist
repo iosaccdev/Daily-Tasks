@@ -1,0 +1,2458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C8331301-B3FD-4A13-A992-5371B1F585D3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABFBDDCD-C77F-44C1-9961-7BEC76512944"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TasksViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "checkTableViewCell(_:didChangeCheckedState:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ABFBDDCD-C77F-44C1-9961-7BEC76512944 - a0576b3957e2b2ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TasksViewController.checkTableViewCell(_: TaskManagerApp.TaskViewCell, didChangeCheckedState: Swift.Bool) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TasksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "372">
+               </Location>
+               <Location
+                  uuid = "ABFBDDCD-C77F-44C1-9961-7BEC76512944 - a0576b3957e2b2ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TasksViewController.checkTableViewCell(_: TaskManagerApp.TaskViewCell, didChangeCheckedState: Swift.Bool) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TasksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "412">
+               </Location>
+               <Location
+                  uuid = "ABFBDDCD-C77F-44C1-9961-7BEC76512944 - a0576b3957e2b2ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TasksViewController.checkTableViewCell(_: TaskManagerApp.TaskViewCell, didChangeCheckedState: Swift.Bool) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TasksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "ABFBDDCD-C77F-44C1-9961-7BEC76512944 - a0576b3957e2b2ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TasksViewController.checkTableViewCell(_: TaskManagerApp.TaskViewCell, didChangeCheckedState: Swift.Bool) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TasksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "420">
+               </Location>
+               <Location
+                  uuid = "ABFBDDCD-C77F-44C1-9961-7BEC76512944 - a0576b3957e2b5b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TasksViewController.checkTableViewCell(_: TaskManagerApp.TaskViewCell, didChangeCheckedState: Swift.Bool) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TasksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "548">
+               </Location>
+               <Location
+                  uuid = "ABFBDDCD-C77F-44C1-9961-7BEC76512944 - a0576b3957e2b5b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TasksViewController.checkTableViewCell(_: TaskManagerApp.TaskViewCell, didChangeCheckedState: Swift.Bool) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TasksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "ABFBDDCD-C77F-44C1-9961-7BEC76512944 - a0576b3957e2b440"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TasksViewController.checkTableViewCell(_: TaskManagerApp.TaskViewCell, didChangeCheckedState: Swift.Bool) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TasksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "ABFBDDCD-C77F-44C1-9961-7BEC76512944 - a0576b3957e2b4dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TasksViewController.checkTableViewCell(_: TaskManagerApp.TaskViewCell, didChangeCheckedState: Swift.Bool) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TasksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "340">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A9969A5-07A9-449B-80A7-B2E957376845"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "checked(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0B9A017-F966-4345-BFDB-2D4D80C27196"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "infoButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E0B9A017-F966-4345-BFDB-2D4D80C27196 - cccd0a5b80f7177d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskViewCell.infoButton(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "456">
+               </Location>
+               <Location
+                  uuid = "E0B9A017-F966-4345-BFDB-2D4D80C27196 - cccd0a5b80f7177d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskViewCell.infoButton(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "476">
+               </Location>
+               <Location
+                  uuid = "E0B9A017-F966-4345-BFDB-2D4D80C27196 - cccd0a5b80f7177d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskViewCell.infoButton(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "E0B9A017-F966-4345-BFDB-2D4D80C27196 - cccd0a5b80f7171c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskViewCell.infoButton(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "E0B9A017-F966-4345-BFDB-2D4D80C27196 - cccd0a5b80f7171c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskViewCell.infoButton(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "E0B9A017-F966-4345-BFDB-2D4D80C27196 - cccd0a5b80f7173f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskViewCell.infoButton(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "E0B9A017-F966-4345-BFDB-2D4D80C27196 - cccd0a5b80f7177d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskViewCell.infoButton(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "E0B9A017-F966-4345-BFDB-2D4D80C27196 - cccd0a5b80f716ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskViewCell.infoButton(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "E0B9A017-F966-4345-BFDB-2D4D80C27196 - cccd0a5b80f71675"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskViewCell.infoButton(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "E0B9A017-F966-4345-BFDB-2D4D80C27196 - cccd0a5b80f717d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskViewCell.infoButton(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F626F3D0-6556-458A-8C8D-AAF9D2860D3F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TaskDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "160"
+            endingLineNumber = "160"
+            landmarkName = "saveButtonTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F626F3D0-6556-458A-8C8D-AAF9D2860D3F - 170f0f1948cfcf8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "560">
+               </Location>
+               <Location
+                  uuid = "F626F3D0-6556-458A-8C8D-AAF9D2860D3F - 170f0f1948cfcf8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "912">
+               </Location>
+               <Location
+                  uuid = "F626F3D0-6556-458A-8C8D-AAF9D2860D3F - 170f0f1948cfcf8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  uuid = "F626F3D0-6556-458A-8C8D-AAF9D2860D3F - 170f0f1948cfcf8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "996">
+               </Location>
+               <Location
+                  uuid = "F626F3D0-6556-458A-8C8D-AAF9D2860D3F - 170f0f1948cfcf8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "640">
+               </Location>
+               <Location
+                  uuid = "F626F3D0-6556-458A-8C8D-AAF9D2860D3F - 170f0f1948cfcf8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "1156">
+               </Location>
+               <Location
+                  uuid = "F626F3D0-6556-458A-8C8D-AAF9D2860D3F - 170f0f1948cfccd1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "668">
+               </Location>
+               <Location
+                  uuid = "F626F3D0-6556-458A-8C8D-AAF9D2860D3F - 170f0f1948cfccd1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "1020">
+               </Location>
+               <Location
+                  uuid = "F626F3D0-6556-458A-8C8D-AAF9D2860D3F - 170f0f1948cfccd1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "660">
+               </Location>
+               <Location
+                  uuid = "F626F3D0-6556-458A-8C8D-AAF9D2860D3F - 170f0f1948cfccd1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "1176">
+               </Location>
+               <Location
+                  uuid = "F626F3D0-6556-458A-8C8D-AAF9D2860D3F - 170f0f1948cfccf2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "660">
+               </Location>
+               <Location
+                  uuid = "F626F3D0-6556-458A-8C8D-AAF9D2860D3F - 170f0f1948cfccf2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "1176">
+               </Location>
+               <Location
+                  uuid = "F626F3D0-6556-458A-8C8D-AAF9D2860D3F - 170f0f1948cfccf2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "684">
+               </Location>
+               <Location
+                  uuid = "F626F3D0-6556-458A-8C8D-AAF9D2860D3F - 170f0f1948cfccf2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "1036">
+               </Location>
+               <Location
+                  uuid = "F626F3D0-6556-458A-8C8D-AAF9D2860D3F - 170f0f1948cfcfb4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "752">
+               </Location>
+               <Location
+                  uuid = "F626F3D0-6556-458A-8C8D-AAF9D2860D3F - 170f0f1948cfcfb4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "1104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "500EB1A9-EDEE-40F6-B160-A83A5B1EA0B5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TaskDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "saveButtonTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "500EB1A9-EDEE-40F6-B160-A83A5B1EA0B5 - 170f0f1948cfcc93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "1236">
+               </Location>
+               <Location
+                  uuid = "500EB1A9-EDEE-40F6-B160-A83A5B1EA0B5 - 170f0f1948cfcc93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "1464">
+               </Location>
+               <Location
+                  uuid = "500EB1A9-EDEE-40F6-B160-A83A5B1EA0B5 - 170f0f1948cfccbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "1464">
+               </Location>
+               <Location
+                  uuid = "500EB1A9-EDEE-40F6-B160-A83A5B1EA0B5 - 170f0f1948cfccbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "1252">
+               </Location>
+               <Location
+                  uuid = "500EB1A9-EDEE-40F6-B160-A83A5B1EA0B5 - 170f0f1948cfcc76"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "1320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41A19021-AF40-4D39-93E5-9BFC6A6CD582"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TaskDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+            landmarkName = "saveButtonTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "41A19021-AF40-4D39-93E5-9BFC6A6CD582 - 170f0f1948cfccbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "3060">
+               </Location>
+               <Location
+                  uuid = "41A19021-AF40-4D39-93E5-9BFC6A6CD582 - 170f0f1948cfcd7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "1932">
+               </Location>
+               <Location
+                  uuid = "41A19021-AF40-4D39-93E5-9BFC6A6CD582 - 170f0f1948cfcd1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "1932">
+               </Location>
+               <Location
+                  uuid = "41A19021-AF40-4D39-93E5-9BFC6A6CD582 - 170f0f1948cfcd1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "2088">
+               </Location>
+               <Location
+                  uuid = "41A19021-AF40-4D39-93E5-9BFC6A6CD582 - 170f0f1948cfcd38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "2136">
+               </Location>
+               <Location
+                  uuid = "41A19021-AF40-4D39-93E5-9BFC6A6CD582 - 170f0f1948cfccd1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "2576">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E1B8B4F9-7D55-4685-9093-562DC381C2D5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TaskDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "saveButtonTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2B6C0D2-D8D5-4BA6-A3C6-D146FF0DEFA1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TaskDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "TaskDetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A2B6C0D2-D8D5-4BA6-A3C6-D146FF0DEFA1 - 76d9d0e38632e7a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.cellIndexPath.getter : Swift.Optional&lt;Foundation.IndexPath&gt;"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "A2B6C0D2-D8D5-4BA6-A3C6-D146FF0DEFA1 - 9da2ef6f756391d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.cellIndexPath.setter : Swift.Optional&lt;Foundation.IndexPath&gt;"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "A2B6C0D2-D8D5-4BA6-A3C6-D146FF0DEFA1 - dad55275bde1004d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.cellIndexPath.modify : Swift.Optional&lt;Foundation.IndexPath&gt;"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "A2B6C0D2-D8D5-4BA6-A3C6-D146FF0DEFA1 - 40fb588131850a6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.cellIndexPath.modify : Swift.Optional&lt;Foundation.IndexPath&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "A2B6C0D2-D8D5-4BA6-A3C6-D146FF0DEFA1 - 9c5d41eec894fbee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TaskManagerApp.TaskDetailViewController"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "780">
+               </Location>
+               <Location
+                  uuid = "A2B6C0D2-D8D5-4BA6-A3C6-D146FF0DEFA1 - ee6b44fb8fd11e38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TaskManagerApp.TaskDetailViewController&gt;"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "748">
+               </Location>
+               <Location
+                  uuid = "A2B6C0D2-D8D5-4BA6-A3C6-D146FF0DEFA1 - 76d9d0e38632e88b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.cellIndexPath.getter : Swift.Optional&lt;Foundation.IndexPath&gt;"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "A2B6C0D2-D8D5-4BA6-A3C6-D146FF0DEFA1 - dad55275bde10f64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.cellIndexPath.modify : Swift.Optional&lt;Foundation.IndexPath&gt;"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "A2B6C0D2-D8D5-4BA6-A3C6-D146FF0DEFA1 - 9c5d41eec894f4c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TaskManagerApp.TaskDetailViewController"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "744">
+               </Location>
+               <Location
+                  uuid = "A2B6C0D2-D8D5-4BA6-A3C6-D146FF0DEFA1 - ee6b44fb8fd11111"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TaskManagerApp.TaskDetailViewController&gt;"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "712">
+               </Location>
+               <Location
+                  uuid = "A2B6C0D2-D8D5-4BA6-A3C6-D146FF0DEFA1 - 76d9d0e38632e783"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.cellIndexPath.getter : Swift.Optional&lt;Foundation.IndexPath&gt;"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "A2B6C0D2-D8D5-4BA6-A3C6-D146FF0DEFA1 - dad55275bde1006c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.cellIndexPath.modify : Swift.Optional&lt;Foundation.IndexPath&gt;"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "A2B6C0D2-D8D5-4BA6-A3C6-D146FF0DEFA1 - 9c5d41eec894fbcf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TaskManagerApp.TaskDetailViewController"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "744">
+               </Location>
+               <Location
+                  uuid = "A2B6C0D2-D8D5-4BA6-A3C6-D146FF0DEFA1 - ee6b44fb8fd11e19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TaskManagerApp.TaskDetailViewController&gt;"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "712">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A34A1360-53D6-4DB8-BEC9-1B1AA712B6BA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TaskDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "saveButtonTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B1CABE9-A906-442F-812D-71521875BC79"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TaskDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "164"
+            endingLineNumber = "164"
+            landmarkName = "saveButtonTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1B1CABE9-A906-442F-812D-71521875BC79 - 170f0f1948cfcc55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "1684">
+               </Location>
+               <Location
+                  uuid = "1B1CABE9-A906-442F-812D-71521875BC79 - 170f0f1948cfcc55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "1904">
+               </Location>
+               <Location
+                  uuid = "1B1CABE9-A906-442F-812D-71521875BC79 - 170f0f1948cfcc55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "2828">
+               </Location>
+               <Location
+                  uuid = "1B1CABE9-A906-442F-812D-71521875BC79 - 95c40a580fb45a39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "165"
+                  endingLineNumber = "165"
+                  offsetFromSymbolStart = "1832">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4EA6754-A0E6-4011-91F5-67702056D7D2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TaskDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "saveButtonTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC842D80-0C08-447E-A3FB-FF3D39318E04"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TaskDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
+            landmarkName = "saveButtonTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DC842D80-0C08-447E-A3FB-FF3D39318E04 - 170f0f1948cfcc76"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "1684">
+               </Location>
+               <Location
+                  uuid = "DC842D80-0C08-447E-A3FB-FF3D39318E04 - 170f0f1948cfcc76"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "1904">
+               </Location>
+               <Location
+                  uuid = "DC842D80-0C08-447E-A3FB-FF3D39318E04 - 95c40a580fb45bd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "166"
+                  endingLineNumber = "166"
+                  offsetFromSymbolStart = "1904">
+               </Location>
+               <Location
+                  uuid = "DC842D80-0C08-447E-A3FB-FF3D39318E04 - 95c40a580fb45bd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in TaskManagerApp.TaskDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "166"
+                  endingLineNumber = "166"
+                  offsetFromSymbolStart = "2152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DAA133FA-1DE5-4D3B-B69C-74EEA250AFDE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TaskDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "168"
+            endingLineNumber = "168"
+            landmarkName = "saveButtonTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2033E5EC-74C5-46E1-A25B-AD246F6D5AFE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TaskDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "170"
+            endingLineNumber = "170"
+            landmarkName = "saveButtonTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "598FD8DB-EA89-4FF7-8668-0879D0AAB212"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TaskDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "dateSwitchTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F3DC89AD-192A-4A64-897F-F2050508F7F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TaskDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "dateSwitchTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A598392-D9E3-4295-BFCC-685CD354926B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TaskDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "dateSwitchTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73C5F11B-2C1A-490E-8D80-80AC017BD34D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TaskDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "hideTimePicker()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF212105-DCE8-42A6-9C81-F5A771D01F08"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TaskDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "setupTimePicker()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AF212105-DCE8-42A6-9C81-F5A771D01F08 - a90a1eaf5374ab86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.setupTimePicker() -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "1588">
+               </Location>
+               <Location
+                  uuid = "AF212105-DCE8-42A6-9C81-F5A771D01F08 - a90a1eaf5374abf8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.setupTimePicker() -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "AF212105-DCE8-42A6-9C81-F5A771D01F08 - a90a1eaf5374ab86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.setupTimePicker() -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "AF212105-DCE8-42A6-9C81-F5A771D01F08 - db897de79a262772"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in TaskManagerApp.TaskDetailViewController.setupTimePicker() -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C6E968D-345E-4B51-AFE3-0C83C2A4325A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TaskDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "hideDatePicker()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3C6E968D-345E-4B51-AFE3-0C83C2A4325A - 9b3da4c870a30817"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.hideDatePicker() -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "3C6E968D-345E-4B51-AFE3-0C83C2A4325A - 9b3da4c870a309d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.hideDatePicker() -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "3C6E968D-345E-4B51-AFE3-0C83C2A4325A - 9b3da4c870a30817"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.hideDatePicker() -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "3C6E968D-345E-4B51-AFE3-0C83C2A4325A - 54a892b81e5180d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in TaskManagerApp.TaskDetailViewController.hideDatePicker() -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5413C42A-5D1D-4F5E-A061-B449FA0009CD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TaskDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "addDatePicker()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5413C42A-5D1D-4F5E-A061-B449FA0009CD - 8d75a755a0e7e568"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.addDatePicker() -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "1912">
+               </Location>
+               <Location
+                  uuid = "5413C42A-5D1D-4F5E-A061-B449FA0009CD - 8d75a755a0e7e52a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.addDatePicker() -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "5413C42A-5D1D-4F5E-A061-B449FA0009CD - 8d75a755a0e7e568"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskDetailViewController.addDatePicker() -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "5413C42A-5D1D-4F5E-A061-B449FA0009CD - bdeaeefdeaf44317"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in TaskManagerApp.TaskDetailViewController.addDatePicker() -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TaskDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F562B60-E78B-420E-8639-B1F9D4B35C57"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TaskDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "timeSwitchTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "070E4B62-4684-4A28-93D4-AA2A345822AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TaskDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "timeSwitchTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DDA1CFBB-A509-4DA2-9C96-B5DCBFF50389"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TaskDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+            landmarkName = "timeSwitchTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36F0BB6F-153C-4E45-BE32-A224CBFAEBE1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TaskDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "187"
+            endingLineNumber = "187"
+            landmarkName = "setInitialPickerValues()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DA630D9-0E8F-4BF5-BFC3-A008E7C06DE4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TaskDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "196"
+            endingLineNumber = "196"
+            landmarkName = "setInitialPickerValues()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6959D4B2-A3D6-4975-80B5-0A5BDC0BC826"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TaskDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "197"
+            endingLineNumber = "197"
+            landmarkName = "setInitialPickerValues()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E40BA019-F05A-4D2C-8A00-193BA7605E4A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TaskDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69D195D7-93CE-47B4-B558-EF525A969F5B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TaskDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8554E21F-79AA-4055-AACE-7BCDA1B98DCA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TaskDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C3B1173-6CDF-47AC-8D05-11ECA74DFB5F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/CheckBox/CheckBox.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "touchUpInside()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F658C72E-7960-496F-80A0-0D0D6D8E9DDB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/StorageManager/StorageManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "setTasks(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCEC176A-D6A5-4E18-B72A-FB2D173FFC51"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/StorageManager/StorageManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "getTasks()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87E372BB-7F6F-48B7-9F7E-B7060ECD930A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TasksViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "addButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "87E372BB-7F6F-48B7-9F7E-B7060ECD930A - 79282e4fbcb88c26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TasksViewController.addButton(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TasksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "87E372BB-7F6F-48B7-9F7E-B7060ECD930A - 79282e4fbcb88dc3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TasksViewController.addButton(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TasksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "87E372BB-7F6F-48B7-9F7E-B7060ECD930A - 79282e4fbcb88ada"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TasksViewController.addButton(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TasksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA54E610-0FA5-4877-BF5E-D30F8BBFB056"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TasksViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "addButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DA54E610-0FA5-4877-BF5E-D30F8BBFB056 - 79282e4fbcb88c47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TasksViewController.addButton(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TasksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "340">
+               </Location>
+               <Location
+                  uuid = "DA54E610-0FA5-4877-BF5E-D30F8BBFB056 - 79282e4fbcb88d1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TasksViewController.addButton(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TasksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "340">
+               </Location>
+               <Location
+                  uuid = "DA54E610-0FA5-4877-BF5E-D30F8BBFB056 - 79282e4fbcb88afb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TasksViewController.addButton(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TasksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "336">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5648AC97-7C56-41FD-8165-0FB704F8FD65"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TasksViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "addButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5648AC97-7C56-41FD-8165-0FB704F8FD65 - 79282e4fbcb88c60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TasksViewController.addButton(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TasksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "452">
+               </Location>
+               <Location
+                  uuid = "5648AC97-7C56-41FD-8165-0FB704F8FD65 - 79282e4fbcb88d3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TasksViewController.addButton(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TasksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "452">
+               </Location>
+               <Location
+                  uuid = "5648AC97-7C56-41FD-8165-0FB704F8FD65 - 79282e4fbcb88a14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TasksViewController.addButton(Any) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TasksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "448">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1AC8894-D6C4-45F5-9D74-1066DBDE30F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "updateChecked()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A1AC8894-D6C4-45F5-9D74-1066DBDE30F1 - 3cd4bf544539cbf6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskViewCell.updateChecked() -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "644">
+               </Location>
+               <Location
+                  uuid = "A1AC8894-D6C4-45F5-9D74-1066DBDE30F1 - 3cd4bf544539cb7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskViewCell.updateChecked() -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "644">
+               </Location>
+               <Location
+                  uuid = "A1AC8894-D6C4-45F5-9D74-1066DBDE30F1 - d74cbcfd5d0526e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in TaskManagerApp.TaskViewCell.updateChecked() -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "692">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C909D8C-488E-49D1-B756-ECF87B6512C5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "updateChecked()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2C909D8C-488E-49D1-B756-ECF87B6512C5 - 3cd4bf544539ca51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskViewCell.updateChecked() -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "836">
+               </Location>
+               <Location
+                  uuid = "2C909D8C-488E-49D1-B756-ECF87B6512C5 - 3cd4bf544539cb34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TaskViewCell.updateChecked() -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "836">
+               </Location>
+               <Location
+                  uuid = "2C909D8C-488E-49D1-B756-ECF87B6512C5 - d74cbcfd5d05212f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in TaskManagerApp.TaskViewCell.updateChecked() -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "884">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3371DF3-B49D-4167-B71A-A6AD56A60FC8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/CheckBox/CheckBox.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "touchUpInside()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D42A475-9CAD-48C4-8F2E-89ABA39293B2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "checked(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E48B3BDE-07F7-4226-B6AE-AE411C1D9D88"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "set(title:checked:date:time:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B54917D-9CC8-466E-8502-B7E930C2D758"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "set(title:checked:date:time:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E8FE206-B177-475F-BB95-45A0E023B46D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "set(title:checked:date:time:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DEB584A9-8EC8-4823-907C-CCC387585049"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "set(title:checked:date:time:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC0A6FF0-7047-4214-9A0F-C4D351848D12"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "set(title:checked:date:time:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0E3162E-C3B9-449D-A637-112E192BC6DA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "set(title:checked:date:time:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7BD11ACD-F214-4B71-8594-229841B6382F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "set(title:checked:date:time:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F15B326-3E31-4C30-B1D3-89A55182707A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "set(title:checked:date:time:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64B00D2C-E9A5-41FF-9571-BB7CD160CF81"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "set(title:checked:date:time:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C51E55FC-6EF8-46EA-B25D-0AF73A8022C1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "set(title:checked:date:time:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B22F8114-78DD-4FCB-A7C2-E3566F110FEC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "set(title:checked:date:time:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94914FB7-FF14-47EF-A249-128D56F136F7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "updateChecked()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6803FCC7-E585-41AE-974E-2FB228BB82CD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "updateTaskTitle(newTitle:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89D086E0-E9F9-4B42-B2AA-14B28539F5D2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "updateTaskTitle(newTitle:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C478571B-1874-4493-B84D-197E507F28DF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/TaskViewCell/TaskViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "updateTaskTitle(newTitle:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E8D403B-3D25-4DED-83EF-82EE6CCD0E65"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TasksViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "checkTableViewCell(_:didChangeCheckedState:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8E8D403B-3D25-4DED-83EF-82EE6CCD0E65 - a0576b3957e2b461"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TasksViewController.checkTableViewCell(_: TaskManagerApp.TaskViewCell, didChangeCheckedState: Swift.Bool) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TasksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "744">
+               </Location>
+               <Location
+                  uuid = "8E8D403B-3D25-4DED-83EF-82EE6CCD0E65 - a0576b3957e2b4fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TasksViewController.checkTableViewCell(_: TaskManagerApp.TaskViewCell, didChangeCheckedState: Swift.Bool) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TasksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "137"
+                  endingLineNumber = "137"
+                  offsetFromSymbolStart = "772">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3FF2163-98A3-43A5-B017-3050585A2F42"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManagerApp/Controllers/TasksViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "checkTableViewCell(_:didChangeCheckedState:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E3FF2163-98A3-43A5-B017-3050585A2F42 - a0576b3957e2b782"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TasksViewController.checkTableViewCell(_: TaskManagerApp.TaskViewCell, didChangeCheckedState: Swift.Bool) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TasksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "892">
+               </Location>
+               <Location
+                  uuid = "E3FF2163-98A3-43A5-B017-3050585A2F42 - a0576b3957e2b41e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManagerApp.TasksViewController.checkTableViewCell(_: TaskManagerApp.TaskViewCell, didChangeCheckedState: Swift.Bool) -&gt; ()"
+                  moduleName = "TaskManagerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/TaskManager/WebviewTestTask/TaskManagerApp/Controllers/TasksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "924">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE675083-F9A4-42E4-877F-E2A030C67FE2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Daily Tasks/Controllers/TasksViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "didUpdateTask(with:date:time:for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD0C7F73-6E7C-4092-8FFF-00C09D73AC5C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Daily Tasks/Controllers/TasksViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "didUpdateTask(with:date:time:for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

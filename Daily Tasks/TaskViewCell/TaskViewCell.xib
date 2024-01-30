@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="150" id="KGk-i7-Jjw" customClass="TaskViewCell" customModule="TaskManagerApp" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="150"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="150"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="46U-Mg-tvo">
+                        <rect key="frame" x="16" y="10" width="33" height="80"/>
+                        <fontDescription key="fontDescription" name=".AppleSystemUIFont" family=".AppleSystemUIFont" pointSize="13"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="QW4-7P-vNL" customClass="CheckBox" customModule="TaskManagerApp" customModuleProvider="target">
+                        <rect key="frame" x="280" y="55" width="30" height="40"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="40" id="J1i-xf-IJt"/>
+                            <constraint firstAttribute="width" constant="30" id="nHn-pZ-OhJ"/>
+                        </constraints>
+                        <connections>
+                            <action selector="checked:" destination="KGk-i7-Jjw" eventType="valueChanged" id="oxz-dP-KE8"/>
+                        </connections>
+                    </view>
+                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="rVc-YX-Jt2">
+                        <rect key="frame" x="16" y="90" width="60" height="50"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="k0z-tf-idN">
+                                <rect key="frame" x="0.0" y="0.0" width="60" height="38"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="aVr-qO-uER">
+                                <rect key="frame" x="0.0" y="38" width="60" height="12"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="60" id="4zk-u1-zaU"/>
+                            <constraint firstAttribute="height" constant="50" id="Wix-jZ-Dxm"/>
+                        </constraints>
+                    </stackView>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hFP-bW-SFq">
+                        <rect key="frame" x="250" y="62.333333333333336" width="30" height="25.666666666666664"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="30" id="OAQ-lH-zYy"/>
+                        </constraints>
+                        <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                        <state key="normal" image="info.circle" catalog="system"/>
+                        <connections>
+                            <action selector="infoButton:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="1DB-fP-wgM"/>
+                        </connections>
+                    </button>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="rVc-YX-Jt2" firstAttribute="top" secondItem="46U-Mg-tvo" secondAttribute="bottom" id="1PK-T5-WQb"/>
+                    <constraint firstAttribute="bottom" secondItem="rVc-YX-Jt2" secondAttribute="bottom" constant="10" id="3fg-LZ-Oba"/>
+                    <constraint firstItem="rVc-YX-Jt2" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="16" id="9UG-jf-hkm"/>
+                    <constraint firstItem="hFP-bW-SFq" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="IWp-np-JL9"/>
+                    <constraint firstItem="QW4-7P-vNL" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="Y6u-sE-Khb"/>
+                    <constraint firstAttribute="trailing" secondItem="QW4-7P-vNL" secondAttribute="trailing" constant="10" id="bWD-hQ-6qh"/>
+                    <constraint firstItem="46U-Mg-tvo" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="16" id="fyo-7k-g00"/>
+                    <constraint firstItem="QW4-7P-vNL" firstAttribute="leading" secondItem="hFP-bW-SFq" secondAttribute="trailing" id="g8m-DM-uIH"/>
+                    <constraint firstItem="46U-Mg-tvo" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="10" id="oBX-G8-MOZ"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="checkBox" destination="QW4-7P-vNL" id="gcr-fz-WiU"/>
+                <outlet property="dateLabel" destination="k0z-tf-idN" id="xRd-pr-u1B"/>
+                <outlet property="stackView" destination="rVc-YX-Jt2" id="KTn-UD-cRE"/>
+                <outlet property="taskLabel" destination="46U-Mg-tvo" id="mne-20-lCp"/>
+                <outlet property="timeLabel" destination="aVr-qO-uER" id="Ggu-K0-w7h"/>
+            </connections>
+            <point key="canvasLocation" x="100.76335877862596" y="45.774647887323944"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="info.circle" catalog="system" width="128" height="123"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
